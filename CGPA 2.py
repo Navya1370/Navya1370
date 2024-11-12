@@ -48,3 +48,4 @@ for i in range(num_semesters):
 cgpa = calculate_cgpa(semesters)
 print(f"\nOverall CGPA: {cgpa:.2f}")
 2
+#Thank you
