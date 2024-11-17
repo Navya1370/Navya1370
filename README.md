@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya.m</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate CSE(AI) Student|Coding enthusiast|Leaning and exploring AI/ML.</h3>
 
 - 🔭 I’m currently working on **Python**
 
