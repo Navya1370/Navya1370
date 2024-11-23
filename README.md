@@ -1,6 +1,3 @@
-![My Profile Picture]("C:\Users\navya\OneDrive\Pictures\Saved Pictures\computerVision.webp")
-
-
 
 <h1 align="center">Hi 👋, I'm Navya.m</h1>
 <h3 align="center">A Passionate CSE(AI) Student|Coding enthusiast|Leaning and exploring AI/ML.</h3>
