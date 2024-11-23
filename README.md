@@ -1,3 +1,4 @@
+![Alt text](https://github.com/Navya1370/Navya1370/blob/main/computerVision.webp)
 
 <h1 align="center">Hi 👋, I'm Navya.m</h1>
 <h3 align="center">A Passionate CSE(AI) Student|Coding enthusiast|Leaning and exploring AI/ML.</h3>
