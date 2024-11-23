@@ -1,4 +1,5 @@
-![Alt text]("C:\Users\navya\OneDrive\Pictures\Saved Pictures\computerVision.webp")
+![My Profile Picture]("C:\Users\navya\OneDrive\Pictures\Saved Pictures\computerVision.webp")
+
 
 
 <h1 align="center">Hi 👋, I'm Navya.m</h1>
